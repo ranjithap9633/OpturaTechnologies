@@ -10,8 +10,8 @@
     'website': 'https://opturatech.com',
     'category': 'Sales',
     'depends': ['sale_management','account','stock'],
-    # 'price': 1.0,
-    # 'currency': 'USD',
+    'price': 1.0,
+    'currency': 'USD',
     'data': [
         # Add your data files here, e.g. 'views/sale_order_views.xml'
     ],
